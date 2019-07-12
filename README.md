@@ -5,7 +5,7 @@ This project is an implementation of bubble sort in ruby
 [know more](https://en.wikipedia.org/wiki/Bubble_sort)
 
 ## Live version
-Repl: [Preview](https://repl.it/@ponmuthuselvam/bubblesortruby)
+Repl.it: [Preview](https://repl.it/@ponmuthuselvam/bubblesortruby)
 
 ## Author
 * [@MouhaDiouf](https://github.com/MouhaDiouf)
